@@ -1,6 +1,6 @@
 [package]
 name = "robotiq-rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Alan, CHUNG Ho Lun, dizzyi@github, deeralan827@gmail.com"]
 description = "Library for interfacing Robotiq Gripper."

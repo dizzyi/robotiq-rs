@@ -1,7 +1,7 @@
 //! # Robotiq-rs
 //! 
 //! [![Static Badge](https://img.shields.io/badge/crate-robotiq--rs-red)](https://crates.io/crates/robotiq-rs)
-//! [![docs.rs](https://img.shields.io/docsrs/inovo-rs)](https://docs.rs/robotiq-rs/latest/robotiq-rs/)
+//! [![docs.rs](https://img.shields.io/docsrs/inovo-rs)](https://docs.rs/robotiq-rs/latest/robotiq_rs/)
 //! [![Static Badge](https://img.shields.io/badge/github-repo-blue)](https://github.com/dizzyi/robotiq-rs)
 //! 
 //! `robotiq-rs` is a library for interfacing with robotiq gripper

@@ -6,7 +6,7 @@
 //! `robotiq-rs` is a library for interfacing with robotiq gripper
 //! ### Compatiable product
 //! - [x] Robotiq 2F-85
-//! - [x] Robotiq 2F-140 ~(i guess🤷‍♂️)~
+//! - [x] Robotiq 2F-140 ~(i guess🤷🏻‍♂️)~
 //! - [x] HandE
 //! - [ ] 3-Finger Gripper
 //! - [ ] Vaccum Gripper

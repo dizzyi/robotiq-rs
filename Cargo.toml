@@ -2,6 +2,10 @@
 name = "robotiq-rs"
 version = "0.1.0"
 edition = "2021"
+authors = ["Alan, CHUNG Ho Lun, dizzyi@github, deeralan827@gmail.com"]
+description = "Library for interfacing Robotiq Gripper."
+license = "MIT"
+readme = "readme.md"
 
 [dependencies]
 tokio = { version = "1.39.2", features = ["full"]}

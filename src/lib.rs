@@ -1,4 +1,8 @@
 //! # Robotiq-rs
+//! 
+//! [![Static Badge](https://img.shields.io/badge/crate-robotiq_rs-red)](https://crates.io/crates/robotiq-rs)
+//! [![docs.rs](https://img.shields.io/docsrs/inovo-rs)](https://docs.rs/robotiq-rs/latest/robotiq_rs/)
+//! 
 //! `robotiq-rs` is a library for interfacing with robotiq gripper
 //! ### Compatiable product
 //! - [x] Robotiq 2F-85
